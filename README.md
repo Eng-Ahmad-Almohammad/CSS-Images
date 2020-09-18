@@ -15,8 +15,10 @@ property with a value of center.
 use the use the margin property
 and set the values of the left and
 right margins to auto.
+![center image](https://user-images.githubusercontent.com/70091044/93628273-f5d2ff80-f9ee-11ea-87f7-29e6acf200b6.PNG)
+
 
 ## Background Images (backgroung-image)
-
+### The background-image property allows you to place an image behind any HTML element. This could be the entire page or just part of the page. By default, a background image will repeat to fill the entire box
 
 
